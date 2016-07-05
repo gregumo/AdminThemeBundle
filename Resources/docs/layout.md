@@ -153,7 +153,7 @@ Same as with the javascript asset groups, there are predefined css groups accord
 `admin_lte_forms_css (styles/admin-lte-forms.css)`
 
 1. bootstrap-colorpicker.css
-2. daterangepicker-bs3.css
+2. daterangepicker.css
 3. bootstrap-timepicker.css
 
 `admin_lte_wysiswyg_css (styles/admin-lte-wysiwyg.css)`
